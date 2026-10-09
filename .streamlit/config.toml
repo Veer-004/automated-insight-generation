@@ -1,0 +1,14 @@
+# Light "healthcare intelligence" theme used by every Streamlit widget.
+[theme]
+base = "light"
+primaryColor = "#4361EE"
+backgroundColor = "#F4F7FC"
+secondaryBackgroundColor = "#EEF2FA"
+textColor = "#172554"
+borderColor = "#E2E8F0"
+showWidgetBorder = true
+baseRadius = "10px"
+
+[theme.sidebar]
+backgroundColor = "#FFFFFF"
+secondaryBackgroundColor = "#F4F7FC"
