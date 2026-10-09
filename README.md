@@ -7,6 +7,8 @@ everything is calculated from whatever CSV is loaded.
 
 **Stack:** Python · Streamlit · Pandas · NumPy · Plotly (no separate backend/API).
 
+**Live demo:** https://assessment4veershah.streamlit.app/?theme=light
+
 ---
 
 ## 1. How to run
